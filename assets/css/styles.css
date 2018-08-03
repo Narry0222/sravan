@@ -6,7 +6,6 @@ body {
     padding: 0;
     background: #444;
     text-transform: capitalize;
-    /*    font-family: Varela Round, sans-serif;*/
 }
 .navbar .nav-item {
     font-size: 14px;
@@ -39,8 +38,8 @@ body {
 .nav-top-part a:hover {
     color: #CCC;
 }
-.border-left-heading {
-    border-left: 3px solid #f18908fa;
-    background: #f1890840;
-}
-
+.border-left-heading {border-left: 3px solid #f18908fa;background: #f1890840;}
+footer {background: #343a40!important;color: rgba(255,255,255,.5);}
+footer p {font-size: 13px; text-align: justify;line-height: 23px;}
+footer .list-group-item { background-color: #343a40!important; font-size: 13px;}
+footer .list-group-item a {color: rgba(255,255,255,.5);}

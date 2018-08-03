@@ -1,4 +1,4 @@
-<div class="container mb-2">
+<div class="container mb-1">
     <ul class="nav justify-content-end nav-top-part bg-dark">
         <li class="nav-item">
             <a class="nav-link" href="#"><i class="fa fa-user"></i>&nbsp;&nbsp;Register</a>

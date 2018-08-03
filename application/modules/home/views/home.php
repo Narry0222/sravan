@@ -108,5 +108,6 @@
                 </div>
             </div>
         </div>
+        <?php $this->load->view('common/footer'); ?>
     </body>
 </html>
