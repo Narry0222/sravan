@@ -1,0 +1,46 @@
+body {
+    background-color: #eee;
+    font-family: Montserrat, sans-serif;
+}
+.navbar {
+    padding: 0;
+    background: #444;
+    text-transform: capitalize;
+    /*    font-family: Varela Round, sans-serif;*/
+}
+.navbar .nav-item {
+    font-size: 14px;
+    padding: 5px 10px;
+    text-transform: capitalize;
+}
+
+.navbar .nav-item:hover {
+    background: #29323c;
+}
+
+.navbar .dropdown-item {
+    font-size: 13px;
+}
+.nav-item.active {
+    background: #29323c;
+}
+.brs {
+    background: #050505;
+    border-radius:0;
+    font-size: 24px;
+}
+.nav-top-part {
+    font-size: 13px;
+    padding: 2px 15px;
+}
+.nav-top-part a {
+    color: #FFF;
+}
+.nav-top-part a:hover {
+    color: #CCC;
+}
+.border-left-heading {
+    border-left: 3px solid #f18908fa;
+    background: #f1890840;
+}
+
