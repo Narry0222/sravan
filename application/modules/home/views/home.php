@@ -5,6 +5,8 @@
         <style>
             .videos .card-body p {font-size: 13px;}
             .videos .card {min-height: 300px;}
+            .videos .card:hover {box-shadow: 0px 0px 20px #aaa;}
+            .videos .view_all {width: 100%; color: #FFF!important; font-size: 13px; padding: 3px 10px;}
         </style>
     </head>
     <body>
@@ -69,6 +71,13 @@
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col">
+                        <a class="btn btn-secondary mt-2 view_all">View All Videos</a>
+                    </div>
+                    <div class="col"></div>
+                </div>
             </div>
             <div class="mb-2 mt-4 videos">
                 <h5 class="p-2 mb-2 border-left-heading">Popular Videos</h5>
@@ -105,6 +114,13 @@
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col">
+                        <a class="btn btn-secondary mt-2 view_all">View All Videos</a>
+                    </div>
+                    <div class="col"></div>
                 </div>
             </div>
         </div>
