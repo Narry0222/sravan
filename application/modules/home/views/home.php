@@ -38,7 +38,7 @@
             <div class="mb-2 mt-4 videos">
                 <h5 class="p-2 mb-2 border-left-heading">Recent Videos</h5>
                 <div class="row">
-                    <div class="col">
+                    <div class="col-md mb-2 col-sm-12">
                         <div class="card">
                             <iframe width="100%" height="200" src="https://www.youtube.com/embed/Dize16eWINU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                             <div class="card-body">
@@ -46,7 +46,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col-md mb-2 col-sm-12">
                         <div class="card">
                             <iframe width="100%" height="200" src="https://www.youtube.com/embed/xLfYje3490U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                             <div class="card-body">
@@ -54,7 +54,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col-md mb-2 col-sm-12">
                         <div class="card">
                             <iframe width="100%" height="200" src="https://www.youtube.com/embed/xq2JbZM3Fdo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                             <div class="card-body">
@@ -62,27 +62,19 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col">
-                        <div class="card">
-                            <iframe width="100%" height="200" src="https://www.youtube.com/embed/Dize16eWINU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                            <div class="card-body">
-                                <p class="card-text">APNRT JANMABHOOMI MANA VOORU 2018.</p>
-                            </div>
-                        </div>
-                    </div>
                 </div>
                 <div class="row">
-                    <div class="col"></div>
-                    <div class="col">
+                    <div class="col-md mb-2"></div>
+                    <div class="col-md mb-2">
                         <a class="btn btn-secondary mt-2 view_all">View All Videos</a>
                     </div>
-                    <div class="col"></div>
+                    <div class="col-md mb-2"></div>
                 </div>
             </div>
             <div class="mb-2 mt-4 videos">
                 <h5 class="p-2 mb-2 border-left-heading">Popular Videos</h5>
                 <div class="row">
-                    <div class="col">
+                    <div class="col-md mb-2 col-sm-12">
                         <div class="card">
                             <iframe width="100%" height="200" src="https://www.youtube.com/embed/Dize16eWINU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                             <div class="card-body">
@@ -90,7 +82,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col-md mb-2 col-sm-12">
                         <div class="card">
                             <iframe width="100%" height="200" src="https://www.youtube.com/embed/xLfYje3490U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                             <div class="card-body">
@@ -98,7 +90,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col-md mb-2 col-sm-12">
                         <div class="card">
                             <iframe width="100%" height="200" src="https://www.youtube.com/embed/xq2JbZM3Fdo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                             <div class="card-body">
@@ -106,21 +98,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col">
-                        <div class="card">
-                            <iframe width="100%" height="200" src="https://www.youtube.com/embed/Dize16eWINU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                            <div class="card-body">
-                                <p class="card-text">APNRT JANMABHOOMI MANA VOORU 2018.</p>
-                            </div>
-                        </div>
-                    </div>
                 </div>
                 <div class="row">
-                    <div class="col"></div>
-                    <div class="col">
+                    <div class="col-md mb-2"></div>
+                    <div class="col-md mb-2">
                         <a class="btn btn-secondary mt-2 view_all">View All Videos</a>
                     </div>
-                    <div class="col"></div>
+                    <div class="col-md mb-2"></div>
                 </div>
             </div>
         </div>

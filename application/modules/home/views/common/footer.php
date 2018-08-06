@@ -1,20 +1,20 @@
 <footer class="mt-4">
     <div class="container">
         <div class="row py-4">
-            <div class="col">
+            <div class="col-md mb-2 col-sm-12">
                 <h5 class="pb-2"><i class="fa fa-users"></i>&nbsp;&nbsp;About Us</h5>
                 <p>Viewers can save their favourite contestant by casting their votes online. Viewers have to search “Star Maa Bigg Boss Telugu Vote” in Google and cast their votes. The 2nd season of Bigg Boss Telugu invited common peoples for the first time into the decorative house. Bigg Boss is a show where the housemates nominate a participant in the beginning of the week for that week’s eviction process.</p>
             </div>
-            <div class="col">
+            <div class="col-md mb-2 col-sm-12">
                 <h5 class="pb-2"><i class="fa fa-link"></i>&nbsp;&nbsp;Links</h5>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item"><a href="#">Link 1</a></li>
-                    <li class="list-group-item"><a href="#">Link 2</a></li>
-                    <li class="list-group-item"><a href="#">Link 3</a></li>
-                    <li class="list-group-item"><a href="#">Link 4</a></li>
+                    <li class="list-group-item"><a href="#"><i class="fa fa-angle-double-right"></i>&nbsp;&nbsp;Link 1</a></li>
+                    <li class="list-group-item"><a href="#"><i class="fa fa-angle-double-right"></i>&nbsp;&nbsp;Link 2</a></li>
+                    <li class="list-group-item"><a href="#"><i class="fa fa-angle-double-right"></i>&nbsp;&nbsp;Link 3</a></li>
+                    <li class="list-group-item"><a href="#"><i class="fa fa-angle-double-right"></i>&nbsp;&nbsp;Link 4</a></li>
                 </ul>
             </div>
-            <div class="col">
+            <div class="col-md mb-2 col-sm-12">
                 <h5 class="pb-2"><i class="fa fa-home"></i>&nbsp;&nbsp;Address</h5>
                 <p class="mb-1">MAX Trans Systems Pvt. Ltd,</p>
                 <p class="mb-1">Road No 36, Jubliee Hills,</p>
